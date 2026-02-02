@@ -1,0 +1,15 @@
+Want a complete roadmap to Plan implementation entire business within - 
+Frappe Framework, 
+ErpNext, 
+Other Available frappe applications..which can be used as it is OR 
+Override via custom applications based on our need,
+Also to keep things moduler multiple custom applications can be planned in a generic manner for keeping future integrations possibilities open. 
+Like -
+GDS Integration (Amedus now, others in future)
+Channel Parnter integration for multiple OTA's (Staah,
+Direct OTA's Integrations
+Want to give a dashboard to customer so they can do direct booking via their account
+We should be able to configure pricing rule for each of them.
+Configurable Prepaid or PostPaid options - Credit limit confiurations based on our Hotel booking and Travel bookings too.
+Their profile and options to add Friends&Family members if Individual clients
+or Employees Details in case corportate clients.
